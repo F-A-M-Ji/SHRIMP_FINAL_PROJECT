@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "149725229078",
+    "project_id": "koko-a63dd",
+    "storage_bucket": "koko-a63dd.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:149725229078:android:a57495374a8b9b58074537",
+        "android_client_info": {
+          "package_name": "com.example.shrimp"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCEgKwNx--IT-G0ATDbGIEZSDgEh_G3Tfc"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
